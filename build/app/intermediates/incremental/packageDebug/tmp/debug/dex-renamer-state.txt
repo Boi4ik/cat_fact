@@ -1,0 +1,4 @@
+#Fri Jun 24 16:34:26 EEST 2022
+base.0=/Users/andrewboyko/Projects/test flutter/test test/cat_fact/flutter_application_cat_fact/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

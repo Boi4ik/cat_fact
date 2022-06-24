@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "d587bc40a4a75e5d4ae77b2063253da7ef624d0b6946f6e8c2da19257daccb25"
+build_start_time: [1656068757, 715137004]
+build_end_time: [1656068760, 766726016]
+inputs:
+  ? "/Users/andrewboyko/Projects/test flutter/test test/cat_fact/flutter_application_cat_fact/macos/Flutter/GeneratedPluginRegistrant.swift"
+  : [1656068734, 390121459]
+  "/Users/andrewboyko/Projects/test flutter/test test/cat_fact/flutter_application_cat_fact/macos/Runner/AppDelegate.swift": [1655929743, 0]
+  "/Users/andrewboyko/Projects/test flutter/test test/cat_fact/flutter_application_cat_fact/macos/Runner/MainFlutterWindow.swift": [1655929743, 0]
