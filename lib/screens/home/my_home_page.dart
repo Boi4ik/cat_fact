@@ -125,7 +125,9 @@ class _CatImage extends StatelessWidget {
           );
         });
       } else {
-        return const SizedBox.shrink();
+        return const Center(
+          child: CircularProgressIndicator(),
+        );
       }
     }
   }
